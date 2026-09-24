@@ -1,13 +1,22 @@
-# iOS App Collection
+# iOS App Collection Archive
 
-GitHub Pages + GitHub Codespaces-ready IPA metadata catalog template.
+This project is a GitHub Pages-ready catalog for an iOS app archive. It presents app metadata from a curated list of legacy iOS titles, including bundle IDs, versions, minimum OS requirements, and binary sizes.
 
-## Features
-- HTML/CSS/JS frontend
-- JSON app database
-- GitHub Pages deployment
-- Codespaces development container
-- Placeholder IPA download folder
+## Included
+- HTML frontend for searching and browsing apps
+- CSS styling for a responsive archive layout
+- JavaScript rendering from a JSON data file
+- Placeholder IPA download entry for each app
+- Sample app metadata and open-source license
 
-## Note
+## Run locally
+
+```bash
+cd /workspaces/autism
+python3 -m http.server 8000
+```
+
+Then open http://localhost:8000 in your browser.
+
+## Notes
 Only distribute IPA files that you own or have permission to share.

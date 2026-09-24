@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">App archive logo</title>
+  <desc id="desc">A rounded square containing a stylized app icon.</desc>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#020617"/>
+  <rect x="18" y="18" width="92" height="92" rx="22" fill="url(#g)" opacity="0.95"/>
+  <path d="M47 79.5V48.5c0-2.9 2.3-5.2 5.2-5.2h24.6c2.8 0 5.1 2.3 5.1 5.2v31c0 2.8-2.3 5.1-5.1 5.1H52.2c-2.9 0-5.2-2.3-5.2-5.1Zm9.5-19.8h19.7v9.3H56.5zm0 14.1h19.7v9.3H56.5z" fill="#06131d"/>
+</svg>
